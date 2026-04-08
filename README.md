@@ -9,27 +9,27 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🛠️ I’m currently working on
+🛠️ I’m currently working on
 - Full‑stack web development projects (React, Node.js, Express.js, MongoDB)
 - Building immersive UI experiences with 3D animations (Spline, Framer Motion)
 - Academic projects like E‑Commerce Platform, JobTracker, and Task Manager
-- 👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on
 - Open‑source projects in JavaScript/React/Node.js
 - Innovative IoT systems and E‑commerce platforms
 - UI/UX design challenges that push creativity
-- 🤝 I’m looking for help with
+🤝 I’m looking for help with
 - Advanced backend scaling techniques
 - Optimizing performance in large React applications
 - Exploring deployment strategies beyond Render/Netlify
-- 🌱 I’m currently learning
+🌱 I’m currently learning
 - Full‑stack development best practices
 - API integration & deployment (Stripe, Razorpay, SendGrid)
 - High‑performance web design and modern frameworks
-- 💬 Ask me about
+💬 Ask me about
 - Full‑stack development (Node.js, Express.js, MongoDB)
 - Building immersive UIs with Framer Motion and 3D Spline\
 - API integration & deployment (Stripe, Razorpay, SendGrid, Render, Netlify)
-- ⚡ Fun fact
+⚡ Fun fact
 - I love experimenting with 3D interactive dashboards and blending cinematic animations into everyday apps — making productivity tools feel like an experience.
 
 
